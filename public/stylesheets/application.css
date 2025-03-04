@@ -1,0 +1,16 @@
+body {
+  background-color: springgreen;
+  
+}
+
+p{
+  background-color: crimson;
+  color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.smaller {
+  background-color: aliceblue;
+  color: blue;
+  font-size: xx-small;
+}
